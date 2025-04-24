@@ -1,2 +1,2 @@
 # kszeng.github.io
-a personal website!
+My first personal website! Improved versions coming soon.
